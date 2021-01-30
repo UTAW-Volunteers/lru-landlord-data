@@ -10,10 +10,10 @@ Good question! We're still figuring that out...
 
 # To-do list
 
-[ ] Lewisham
-[ ] Hackney
-[ ] Newham
-[ ] Brent
-[ ] Tower Hamlets
-[ ] Harringay
-[ ] Camden - https://www.camden.gov.uk/en/web/guest/public-licensing-register
+- [ ] Lewisham
+- [ ] Hackney
+- [ ] Newham
+- [ ] Brent
+- [ ] Tower Hamlets
+- [ ] Harringay
+- [ ] Camden - https://www.camden.gov.uk/en/web/guest/public-licensing-register
