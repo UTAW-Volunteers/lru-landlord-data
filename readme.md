@@ -16,4 +16,4 @@ Good question! We're still figuring that out...
 - [ ] Brent
 - [ ] Tower Hamlets
 - [ ] Harringay
-- [ ] Camden - https://www.camden.gov.uk/en/web/guest/public-licensing-register
+- [ ] Camden - https://opendata.camden.gov.uk/Housing/HMO-Licensing-Register/x43g-c2rf?no_mobile=true
