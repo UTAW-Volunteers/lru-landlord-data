@@ -10,7 +10,7 @@ Good question! We're still figuring that out...
 
 # To-do list
 
-- [ ] Lewisham
+- [ ] Lewisham - https://lewisham.gov.uk/myservices/housing/landlords/hmo/register-of-licensed-houses-in-multiple-occupation--hmos
 - [ ] Hackney
 - [ ] Newham
 - [ ] Brent
