@@ -11,7 +11,7 @@ Good question! We're still figuring that out...
 # To-do list
 
 - [ ] Lewisham - https://lewisham.gov.uk/myservices/housing/landlords/hmo/register-of-licensed-houses-in-multiple-occupation--hmos
-- [ ] Hackney
+- [x] Hackney
 - [ ] Newham
 - [ ] Brent
 - [ ] Tower Hamlets
