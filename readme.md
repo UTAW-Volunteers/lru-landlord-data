@@ -13,13 +13,3 @@ For each borough that still needs doing there is a task on the board here: https
 Once you pick up a task, it's up to you how to write the script. You can have a look at existing ones in the scripts directory above, but the format of the data varies enough from borough to borough that they're likely to all look pretty different.
 
 When you have it working, put up a pull request including the results CSV.
-
-# To-do list
-
-- [ ] Lewisham - https://lewisham.gov.uk/myservices/housing/landlords/hmo/register-of-licensed-houses-in-multiple-occupation--hmos
-- [x] Hackney
-- [ ] Newham
-- [ ] Brent
-- [ ] Tower Hamlets
-- [ ] Harringay
-- [ ] Camden - https://opendata.camden.gov.uk/Housing/HMO-Licensing-Register/x43g-c2rf?no_mobile=true
